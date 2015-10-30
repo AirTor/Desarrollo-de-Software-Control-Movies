@@ -65,7 +65,7 @@ public class panelUsuarios extends javax.swing.JFrame {
         jButton1.setText("Agregar");
         jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 0, 110, 50));
 
-        jButton2.setText("jButton1");
+        jButton2.setText("Editar");
         jPanel1.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(440, 0, 110, 50));
 
         jButton3.setText("jButton1");
